@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyFirstOpera</string>
+    <string name="opera">opera</string>
 </resources>
